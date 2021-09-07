@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+}
+
+.parent{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#area{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 100%;
+}
+form{
+    width: 70%;
+}
+.censor{
+    width: 100%;
+    background-color: rgb(84, 141, 61);
+    padding: 1%;
+}
+.text{
+    width: 80%;
+    padding: 5px;
+}
+.formbut{
+    padding: 5px;
+    width: 9.6%;
+}
